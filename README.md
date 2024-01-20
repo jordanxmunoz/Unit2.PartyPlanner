@@ -1,2 +1,2 @@
 # Unit2.PartyPlanner
-created a functioning page that allows to add a party plan to a list of parties as well as giving capabilities to delete any of the parties.
+created a functioning page that allows to add a party plan to a list of parties as well as giving capabilities to delete any of the parties. Also added styling to the page to look more presentable.
